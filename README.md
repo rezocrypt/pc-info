@@ -2,6 +2,7 @@
 
 Pc-info is a simple program for displaying information about your computer.
 
+<img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/05240e89-5bfd-4618-8d5c-f8a627d627f5" />
 
 
 **Created:** 2021
